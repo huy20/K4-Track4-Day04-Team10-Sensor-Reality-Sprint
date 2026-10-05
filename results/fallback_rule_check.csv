@@ -1,0 +1,21 @@
+label,value,unit,mAP50,mAP50_change_pct,degraded,health,mean_conf,health<0.7,mean_conf<0.85,health<0.7 OR mean_conf<0.85
+Gaussian blur,1.0,sigma,0.521,11.8,False,0.629,0.953,True,False,True
+Gaussian blur,2.0,sigma,0.388,-16.7,False,0.607,0.944,True,False,True
+Gaussian blur,3.5,sigma,0.298,-36.1,True,0.605,0.903,True,False,True
+Gaussian blur,5.5,sigma,0.223,-52.1,True,0.607,0.887,True,False,True
+Motion blur,3.0,kernel,0.516,10.7,False,0.715,0.945,False,False,False
+Motion blur,7.0,kernel,0.361,-22.5,True,0.657,0.922,True,False,True
+Motion blur,11.0,kernel,0.281,-39.7,True,0.64,0.882,True,False,True
+Motion blur,15.0,kernel,0.211,-54.7,True,0.632,0.838,True,True,True
+Underexposure,1.4,gamma,0.47,0.9,False,0.833,0.949,False,False,False
+Underexposure,1.9,gamma,0.424,-9.0,False,0.73,0.954,False,False,False
+Underexposure,2.5,gamma,0.378,-18.9,False,0.647,0.948,True,False,True
+Underexposure,3.2,gamma,0.33,-29.2,True,0.579,0.942,True,False,True
+Overexposure,0.8,gamma,0.447,-4.1,False,0.965,0.943,False,False,False
+Overexposure,0.65,gamma,0.435,-6.7,False,0.977,0.942,False,False,False
+Overexposure,0.5,gamma,0.43,-7.7,False,0.959,0.942,False,False,False
+Overexposure,0.4,gamma,0.424,-9.0,False,0.92,0.937,False,False,False
+Sensor noise,5.0,sigma,0.454,-2.6,False,0.93,0.941,False,False,False
+Sensor noise,10.0,sigma,0.335,-28.1,True,0.932,0.788,False,True,True
+Sensor noise,20.0,sigma,0.203,-56.4,True,0.935,0.665,False,True,True
+Sensor noise,35.0,sigma,0.086,-81.5,True,0.939,0.619,False,True,True
