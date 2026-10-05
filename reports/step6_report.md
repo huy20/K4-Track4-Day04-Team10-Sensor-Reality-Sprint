@@ -1,6 +1,6 @@
 # Camera suy giảm và detector ADAS: health score báo trước được tới đâu?
 
-**Nhóm 10 · K4 Track4 Day04 Sensor Reality Sprint · Bước 6** · Người viết: `<họ tên>` · 05/10/2026
+**Nhóm 10 · K4 Track4 Day04 Sensor Reality Sprint · Bước 6** · Người viết: Đoàn Duy Bách (MSSV 2A202602515) · 05/10/2026
 
 > Ký hiệu: **[Paper]** = kết luận của paper/repo nguồn · **[Nhóm đo]** = kết quả nhóm tự chạy trong notebook.
 
